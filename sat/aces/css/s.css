@@ -1,0 +1,274 @@
+@media screen and (max-width: 1200px){
+
+}
+
+@media screen and (max-width: 998px){
+    
+}
+
+@media screen and (max-width: 768px){
+    
+}
+
+@media screen and (max-width: 576px){
+    
+}
+
+body{
+    margin: 0;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+*,
+*::after
+*::before{
+    box-sizing: border-box;
+}
+
+
+.conteiner{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.header{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../img/5550760.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.button{
+    width: 230px;
+    height: 60px;
+    cursor: pointer;
+    border: none;
+    background: white;
+    color: #3e3e3e;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 24pt;
+    border-radius: 30px;
+    outline: none;
+    margin: 40px 17px 10px ;
+    float:right;
+    align-items:center;
+}
+
+
+
+h1{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 244px;
+    color: white;
+    margin: 0;
+    align-items: center;
+}
+
+.headerlogo{
+    float: right;
+    margin: 20px 0px;
+}
+h2{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 140px;
+    color: white;
+    margin:0;
+    text-align: center;
+    line-height: 2;
+    
+}
+.pe{
+    font-size: 25pt;
+    font-family: 'Nunito Sans', sans-serif;
+    color: white;
+    width: 800px;
+    height: 140px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    
+    
+    
+}
+.sectio{
+    height: 100vh;
+    background: url(../img/bac2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    
+    
+}
+.buttonn{
+    width: 150px;
+    height: 60px;
+    cursor: pointer;
+    border: none;
+    background: rgba(33, 33, 33, 0.4);
+    color: rgb(209, 209, 209);
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 24pt;
+    border-radius: 30px;
+    outline: none;
+    position: absolute;
+    left: 50%;
+    top: 85%;
+    transform: translate(-50%, -50%);
+}
+
+h3{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 120px;
+    color: white;
+    margin: 0;
+    line-height: 2;
+    text-align: center;
+}
+
+.sec2{
+    height: 100vh;
+    background: url(../img/bac2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+
+
+
+
+.te{
+    font-size: 25pt;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #3e3e3e;
+    width: 500px;
+    height: 45px;
+    background-color:white;
+    border-radius: 40px;
+    margin: 30 auto;
+    text-align: center;   
+}
+
+.qw{
+    width: 50;
+    height: 45;
+    background-color: white;
+    margin: 0 100px;
+    border-radius: 40px;
+    position: absolute;
+    
+
+    
+}
+
+
+
+
+.buttonm{
+    width: 150px;
+    height: 60px;
+    cursor: pointer;
+    border: none;
+    background: rgba(33, 33, 33, 0.4);
+    color: rgb(209, 209, 209);
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 24pt;
+    border-radius: 30px;
+    outline: none;
+    position: absolute;
+    left: 50%;
+    top: 85%;
+    transform: translate(-50%, -25%);
+}
+
+h4{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 120px;
+    color: white;
+    margin: 0;
+    text-align: center;
+    line-height: 2.5;
+}
+
+.conect{
+    height: 100vh;
+    background: url(../img/bac2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+
+.buttonfix{
+    width: 450px;
+    height: 60px;
+    cursor: pointer;
+    border: none;
+    background:white;
+    color: #3e3e3e;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 24pt;
+    border-radius: 30px;
+    outline: none;
+    margin: 15 0 0 50%;
+    transform: translate(-50%);
+    
+    
+}
+
+
+
+.buttonv{
+    width: 150px;
+    height: 60px;
+    cursor: pointer;
+    border: none;
+    background: rgba(33, 33, 33, 0.4);
+    color: rgb(209, 209, 209);
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 24pt;
+    border-radius: 30px;
+    outline: none;
+    position: absolute;
+    margin: 0;
+    left: 50%;
+    top: 85%;
+    transform: translate(-50%, -15%);
+    
+    
+}
+
+.dd{   
+    width: 65px;
+    height: 65px;
+    position: absolute;
+    margin: -10 -155;
+}
+
+.fd{
+    width: 54px;
+    height: 54px;
+    position: absolute;
+    margin: -6 -97;
+}
+
+
+
+
+
+
+
+
+
+
+
+
